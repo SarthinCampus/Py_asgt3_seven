@@ -1,13 +1,8 @@
-📂 Directory: datetime_today
-📄 File: main.py
+Directory: regex_capital_words
+File: main.py
 
-📝 Instructions:
-Using the datetime module:
+Task:
 
-- Print today’s date and time in the format:
-	Today is: 2025-07-05 13:00:00
-
-- Extract and print only:
-  Year
-  Month name
-  Day of the week
+Read a paragraph from input.
+Use regex to find all words that start with capital letters.
+Print them one per line.
